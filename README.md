@@ -7,10 +7,12 @@ and to allow the user to change some power management settings:
     * battery voltage
     * estimated energy remaining
     * CPU/GPU temperature
+    
 * lets user adjust power saving settings:
     * dim display when idle on battery power
     * enable external USB and audio (and the unused Ethernet port)
     * enable Wi-Fi and Bluetooth
+    
 * displays concise information in its taskbar icon:
     * energy remaining both as a gauge and a number
     * gauge blinks at 2Hz when energy is below 5%
