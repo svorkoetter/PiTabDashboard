@@ -1,3 +1,5 @@
+# Dashboard for DIY Raspberry Pi Tablet
+
 PiTabDashboard is a graphical utility to display the current state of a
 Raspberry Pi based tablet, as described here
 (http://www.stefanv.com/electronics/a-compact-home-made-raspberry-pi-tablet.html),
