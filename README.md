@@ -19,5 +19,7 @@ and to allow the user to change some power management settings:
     * blinking lightning bolt at 1Hz indicates charging is in progress
     * solid lightning bolt indicates charging is complete
 
+!http://www.stefanv.com/media/2017/06/dashboard.png
+
 PiTabDashboard is intended to be used together with PiTabDaemon
 (https://github.com/svorkoetter/PiTabDaemon).
