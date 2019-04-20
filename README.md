@@ -22,4 +22,4 @@ and to allow the user to change some power management settings:
 PiTabDashboard is intended to be used together with PiTabDaemon
 (https://github.com/svorkoetter/PiTabDaemon).
 
-!<http://www.stefanv.com/media/2017/06/dashboard.png>
+![Screenshot of Dashboard](http://www.stefanv.com/media/2017/06/dashboard.png)
