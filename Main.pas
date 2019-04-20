@@ -285,7 +285,7 @@ begin
     (* Update voltage gauge. *)
     if v <> lastV then begin
       VoltageCaption.Caption := Format('%4.2fV',[v]);
-      DrawGauge(VoltageMeter.canvas,v,3.2,3.72,3.81,4.2,
+      DrawGauge(VoltageMeter.canvas,v,3.4,3.62,3.78,4.2,
 		clTeal,clSilver,RED,AMBER,GREEN,GREEN)
     end;
 
